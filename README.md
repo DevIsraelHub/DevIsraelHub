@@ -86,7 +86,7 @@
 
 ## Top Open Source -
 [![Homily](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=homily&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devisraelhub/homily)
-[![Acedly Ai](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=acedly-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/devisraelhub/acedly-ai](https://github.com/DevIsraelHub/acedly-ai))
+[![Acedly Ai](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=acedly-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/devisraelhub/acedly-ai](https://github.com/DevIsraelHub/acedly-ai)
 [![Fastify](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=fastify&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devisraelhub/fastify)
 [![Ejeh Israel's Readme](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=devisraelhub&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devisraelhub/devisraelhub)
 
