@@ -98,11 +98,8 @@
 <hr/>
 <br/>
 
-<a> 
-    <a href="https://github.com/devisraelhub"><img alt="Ejeh Israel" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devisraelhub&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/devisraelhub"><img alt="Ejeh Israel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devisraelhub&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
 
 
 ![Ejeh Israel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devisraelhub&custom_title=Ejeh%20Israel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
