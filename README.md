@@ -11,7 +11,7 @@
   <samp>
     <a href="https://www.google.com/search?q=ejeh+israel+web+developer">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer 」
+    「 I am a full stack web developer 」
     <br>
     <br>
   </samp>
