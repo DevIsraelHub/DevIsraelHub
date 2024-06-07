@@ -82,18 +82,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<br/>
-
-## Top Open Source -
-
-[![Homily](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=homily&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devisraelhub/homily)
-[![Acedly-ai](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=acedly-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devisraelhub/acedly-ai)
-[![Fastify](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=fastify&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devisraelhub/fastify)
-[![Ejeh Israel's Readme](https://github-readme-stats.vercel.app/api/pin/?username=devisraelhub&repo=devisraelhub&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devisraelhub/devisraelhub)
-
-<p align="left">
-  <a href="https://github.com/devisraelhub?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
