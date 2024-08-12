@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=ejeh+israel+web+developer">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=ejeh+israel+software+engineer">「 Google Me 」</a>
     <br>
     「 I am a Software Engineer 」
     <br>
