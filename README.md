@@ -2,23 +2,23 @@
 <!-- Intro  -->
 <h3 align="center">
     <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ejeh.vercel.app">Ejeh Israel</a></b>
+                <b><a target="_blank" href="https://www.ejehisrael.com">Ejeh Israel</a></b>
   </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=ejeh+israel+software+engineer">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=ejeh+israel+frontend+developer">「 Google Me 」</a>
     <br>
-    「 I am a Software Engineer 」
+    「 I am a Frontend Developer 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://ejeh.vercel.app" target="blank">
+ <a href="https://www.ejehisrael.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ejeh israel" />
  </a>
  <a href="https://linkedin.com/in/ejeh" target="_blank">
@@ -35,8 +35,8 @@
   
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: israelejeh08@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://ejeh.vercel.app/contact)
+ 📧 &emsp; Reach me anytime: contact@ejehisrael.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://www.ejehisrael.com/contact)
 
 </p>
 
