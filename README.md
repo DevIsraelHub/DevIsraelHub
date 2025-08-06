@@ -9,9 +9,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=ejeh+israel+frontend+developer">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=ejeh+israel">「 Google Me 」</a>
     <br>
-    「 I am a Frontend Developer 」
+    「 I am a Senior Frontend Engineer 」
     <br>
     <br>
   </samp>
@@ -35,7 +35,7 @@
   
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: contact@ejehisrael.com<br/><br/>
+ 📧 &emsp; Reach me anytime: israelejeh08@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://www.ejehisrael.com/contact)
 
 </p>
